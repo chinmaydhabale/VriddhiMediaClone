@@ -1,0 +1,38 @@
+[
+    {
+      "keywords": ["hello", "hi", "greetings", "hey", "good morning", "good afternoon"],
+      "response": "Hello! How can I help you today?"
+    },
+    {
+      "keywords": ["hours", "time", "open", "close", "opening", "closing", "business hours", "working hours"],
+      "response": "Our business hours are 12AM to 7PM, Monday through saturday."
+    },
+    {
+      "keywords": ["contact", "email", "phone", "reach", "call", "contacting", "get in touch", "speak to"],
+      "response": "You can contact us at info@vriddhi.media or call us at +919266537839."
+    },
+    {
+      "keywords": ["services", "products", "offerings", "what you offer", "do you provide"],
+      "response": "We offer a variety of services including Building An Online Presence, Building A Personal Brand, Building Your Content Funnel, Shifting The Narratives."
+    },
+    {
+      "keywords": ["thank", "thanks", "thank you", "much appreciated"],
+      "response": "You're welcome! If you have any other questions, feel free to ask."
+    },
+    {
+      "keywords": ["shift narratives", "negative PR", "positive PR", "negative publicity", "reputation management", "improve public relations", "strategic UGC", "user-generated content"],
+      "response": "Our **Shifting The Narratives** service helps transform negative PR into positive publicity using our strategic user-generated content (UGC) push. We specialize in reputation management to enhance your public image."
+    },
+    {
+      "keywords": ["build online presence", "online presence", "brand visibility", "increase visibility", "relevant communities", "forums", "don't go unnoticed", "enhance online presence"],
+      "response": "Our **Building An Online Presence** service gives your brand the push it needs in relevant communities and forums. We ensure that your business doesn't go unnoticed and effectively enhances your online visibility."
+    },
+    {
+      "keywords": ["build personal brand", "personal branding", "founder brand", "connect with audience", "relate with founders", "become more relatable", "deeper connection", "audience engagement"],
+      "response": "Our **Building A Personal Brand** service helps you as a founder become more relatable and connect with your audience on a deeper level. We focus on personal branding strategies that engage your audience effectively."
+    },
+    {
+      "keywords": ["build content funnel", "content funnel", "website traffic", "brand awareness", "SEO-optimized blogs", "captivating videos", "content machine", "boost traffic", "increase brand awareness"],
+      "response": "Our **Building Your Content Funnel** service boosts your website traffic by 20% and brand awareness by 35%! We offer an all-in-one solution that includes research, writing, SEO-optimized blogs, and captivating videos to help you build an effective content machine that delivers results."
+    }
+  ]
