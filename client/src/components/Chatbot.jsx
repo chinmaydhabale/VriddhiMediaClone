@@ -27,7 +27,7 @@ function Chatbot({ isOpen, onClose }) {
 
         // Send the user's message to the backend
         try {
-            const response = await fetch('http://localhost:5000/api/chat', {
+            const response = await fetch(`${import.meta.env.VITE_API_URI}/api/chat`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ message: input }),
@@ -73,8 +73,8 @@ function Chatbot({ isOpen, onClose }) {
                     >
                         <span
                             className={`inline-block rounded-lg px-3 py-2 ${msg.sender === 'user'
-                                    ? 'bg-blue-500 text-white'
-                                    : 'bg-gray-200 text-gray-800'
+                                ? 'bg-blue-500 text-white'
+                                : 'bg-gray-200 text-gray-800'
                                 }`}
                         >
                             {msg.text}
